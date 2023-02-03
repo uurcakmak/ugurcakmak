@@ -1,6 +1,6 @@
 # Greetings ! 👋
 
-Hello ! I'm **Uğur Çakmak**, I'm a Software Architect at Bupa Acıbadem Sigorta, Istanbul, Turkey <br>
+Hello ! I'm **Uğur Çakmak**, I'm working as a Software Development Leader at KoçSistem, Istanbul, Turkey. <br>
 
 
 ## 📌 GitHub Stats and Top Languages
